@@ -54,7 +54,7 @@ Setup Instructions
 
 1 Clone the Project  
 
-- git clone <your-repository-link>  
+- git clone https://github.com/jeevamathisrinivasan/Employee_Management_System.git
 
    OR import into Eclipse:
      
