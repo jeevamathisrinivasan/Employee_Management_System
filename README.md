@@ -55,7 +55,7 @@ src/main/java
 ## SETUP INSTRUCTIONS
 
 ### 1 Clone the Project
-git clone https://github.com/your-username/Employee_Management_System.git
+git clone https://github.com/jeevamathisrinivasan/Employee_Management_System.git
 
 OR import into Eclipse:
 File → Import → Existing Maven Project
